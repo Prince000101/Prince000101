@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">Aspiring Software Developer | Student | Passionate about Building & Learning</h3>
 
-<!--
-**Prince000101/Prince000101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- 🔧 C, C++, Python
+- 💻 Full Stack Web Development (MERN Stack)
+- 🔐 Cybersecurity & Ethical Hacking
+- 🎮 Game Development with Godot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 My Goals:
+- Master multiple programming languages 💡
+- Build useful and meaningful open-source projects 🌍
+- Collaborate with global dev communities 🤝
+- Share my learning journey through blogs and tutorials ✍️
+
+🚧 Projects I'm working on:
+- 🔹 [Photo Sorting App for Linux](https://github.com/yourusername/photo-sorter)
+- 🔹 [Personal Portfolio Website](https://yourusername.github.io)
+- 🔹 [Linux Optimization Script](https://github.com/yourusername/linux-optimizer)
+
+📫 How to reach me:
+- LinkedIn: [linkedin.com/in/prince-kumar](https://www.linkedin.com/in/prince-kumar)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- Email: your.email@example.com
+
+⚡ Fun fact:
+> I believe consistent small steps can build powerful skills. My journey is just beginning 🚀
+
+---
+
+### 🛠️ Tech Stack
+```bash
+Languages: C, C++, Python, JavaScript  
+Web: HTML, CSS, React.js, Node.js, MongoDB  
+Tools: Git, Linux, VS Code, Bash, GitHub  
