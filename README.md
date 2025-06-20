@@ -21,10 +21,10 @@
 - 🔹 [Linux Optimization Script](https://github.com/yourusername/linux-optimizer)
 
 📫 How to reach me:
-- LinkedIn: [linkedin.com/in/prince-kumar](https://www.linkedin.com/in/prince-kumar)
+- LinkedIn: [linkedin.com/in/Prince Kumar](https://www.linkedin.com/in/prince-kumar-41659823b)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
+- Email: kumar.prince7428@gmail.com
+  
 ⚡ Fun fact:
 > I believe consistent small steps can build powerful skills. My journey is just beginning 🚀
 
