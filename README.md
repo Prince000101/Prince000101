@@ -17,16 +17,6 @@
 
 ---
 
-## 🌱 Currently Learning and Working With.
-
-- 🖥️ **Languages**: C, C++, Python, Java, C#, TypeScript  
-- 🌐 **Web Dev**: MERN Stack (MongoDB, Express, React, Node.js)  
-- 📱 **Mobile Apps**: React Native, Kotlin  
-- 🔐 **Cybersecurity**: Red/Blue Team tools, scripting, system hardening  
-- 🎮 **Game Dev**: Godot engine and 2D game mechanics  
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages
@@ -71,13 +61,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince000101&theme=radical&row=1"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
