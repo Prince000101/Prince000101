@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/Prince000101.png" width="200" style="border-radius: 50%" />
-  <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+  <h1 align="center">Hi 👋, I'm Prince</h1>
   <h3 align="center">Start something and learn while doing it, parallel working</h3>
 </div>
 
