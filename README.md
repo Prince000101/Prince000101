@@ -2,9 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Prince%20Kumar&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%20·%20%20Linux%20Lover%20%20·%20%20Lifelong%20Learner&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+real-world+tools+from+scratch;Exploring+Web+%7C+Security+%7C+Game+Dev;Linux+power+user+%26+open+source+fan;Learning+in+public%2C+one+commit+at+a+time+🚀)](https://git.io/typing-svg)
-
-<br/>
 
 <!-- Socials -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kumarprince.is-a.dev/)
@@ -14,9 +11,6 @@
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prince000101)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/prince000101)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Prince000101)
-
-<br/>
-
 ![Profile views](https://komarev.com/ghpvc/?username=Prince000101&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
