@@ -19,7 +19,7 @@ A passionate frontend developer from India
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/prince-kumar-41659823b)
 - 💬 Ask me about **everything i will find a way.**
 - 📫 How to reach me **kumar.prince7428@gmail.com**
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1mnWD8_78yeq7sO0rWggk7SbVOpJJYdGul1Ape1XUrDw/edit?tab=t.0)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1mnWD8_78yeq7sO0rWggk7SbVOpJJYdGul1Ape1XUrDw/edit?tab=t.0)
 - ⚡ Fun fact **I can find you.**
 
 ---
@@ -29,12 +29,10 @@ A passionate frontend developer from India
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts,java,kotlin,rust,mysql" />
 
-<br/>
 
 **Web & Mobile Backend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,postgres,firebase,android" />
 
-<br/>
 
 **Tools & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=bash,linux,git,docker,vscode,neovim,postman,figma,obsidian,vercel,githubactions" />
