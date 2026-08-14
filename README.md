@@ -1,10 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Prince%20Kumar&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20New%20Delhi&descAlignY=58&descSize=15)
+**Prince Kumar** — Full-Stack Developer · New Delhi, India
 
-# Hi there 👋
-
-**Aspiring CS Engineer** — I build fast, clean, human-centered software, blending full-stack engineering, web security, and data analysis with psychology.
+**2+ yrs** learning & building · [![Projects](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FPrince000101&query=public_repos&label=Projects&color=58A6FF&style=flat-square)](https://github.com/Prince000101?tab=repositories) · 100+ problems solved
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://kumarprince.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-kumar-41659823b)
@@ -15,12 +13,56 @@
 
 </div>
 
-**🏢 Now:** Full-Stack & Data Analyst Engineer @ Indian AJS · **Experience:** 2+ yrs · **Built:** 35+ projects · 100+ problems solved
+## 🛠 Skills
 
-**🛠 Tech:** Python · C · C++ · C# · Java · Kotlin · Rust · JS/TS · SQL · Shell · React · Next.js · React Native · Tailwind · Node.js · Express · Supabase · PostgreSQL · MongoDB · Firebase · Linux · Docker · Git · CI/CD
+**Languages**
 
-**🚀 Featured:** [CountrySpices Store](https://kumarprince.is-a.dev/projects/countryspices-store) (e-commerce) · [Downtube Pro](https://kumarprince.is-a.dev/projects/downtube-pro) (YouTube downloader) · [Macshot for Linux](https://kumarprince.is-a.dev/projects/macshot-for-linux) (screen recorder) — [all projects](https://kumarprince.is-a.dev/projects)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Rust](https://skillicons.dev/icons?i=rust)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+**Web**
+
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+**Databases**
+
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Supabase](https://skillicons.dev/icons?i=supabase)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**AI & Research**
+
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![scikit-learn](https://skillicons.dev/icons?i=scikitlearn)
+
+**Tools**
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Netlify](https://skillicons.dev/icons?i=netlify)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Neovim](https://skillicons.dev/icons?i=neovim)
 
 **📬** Open to roles & collabs — [kumar.prince7428@gmail.com](mailto:kumar.prince7428@gmail.com)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=70&section=footer)
